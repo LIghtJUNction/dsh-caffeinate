@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-caffeinate
+      name: '@lightjunction/dsh-caffeinate'
+      config: {}
